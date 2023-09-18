@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Tridel Suite]">
+  <test name="Survey(failed)">
+    <classes>
+      <class name="tridel.Survey">
+        <methods>
+          <include name="surveyForm"/>
+          <include name="successfulLogin"/>
+        </methods>
+      </class> <!-- tridel.Survey -->
+    </classes>
+  </test> <!-- Survey(failed) -->
+</suite> <!-- Failed suite [Tridel Suite] -->

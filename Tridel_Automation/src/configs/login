@@ -1,0 +1,16 @@
+username=viabloorp1
+password=password#1
+InvalidUsername=viabloorp122
+InvalidPassword=password#122
+specialCharacter=~@~~!$!@$#^@#$%%%%^((%(&&*)*_*+</>
+actualSignInValidationMessage=Enter a vaild user name or password.
+skipVideoButton=skipVideo
+skipVideoButtonType=id
+signInUserNameTextInput=//input[@type='text']
+signInUserNameTextInputType=xpath
+signInUserPasswordTextInput=//input[@type='password']
+signInUserPasswordTextInputType=xpath
+signInBtnButton=//button[@type='submit']
+signInBtnButtonType=xpath
+navbarLogo=//img[@class='navbarLogo']
+navbarLogoType=xpath

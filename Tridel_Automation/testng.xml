@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="tridel.NavigateToSpecificURL"/>
+      <class name="tridel.LoginMethod"/>
+      <class name="tridel.Survey"/>
+      <class name="tridel.UnSuccessfulLogin"/>
+      <class name="tridel.SuccessfulLogin"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
